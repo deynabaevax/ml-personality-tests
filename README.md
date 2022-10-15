@@ -13,3 +13,8 @@ The data was collected from the <a href="http://openpsychometrics.org/_rawdata/"
 
 > __Background__ <br>
 "The big five personality traits are the best accepted and most commonly used model of personality in academic psychology. If you take a college course in personality psychology, this is what you will learn about. The big five come from the statistical study of responses to personality items. Using a technique called factor analysis researchers can look at the responses of people to hundreds of personality items and ask the question "what is the best was to summarize an individual?". This has been done with many samples from all over the world and the general result is that, while there seem to be unlimited personality variables, five stand out from the pack in terms of explaining a lot of a persons answers to questions about their personality: extraversion, neuroticism, agreeableness, conscientiousness and openness to experience. The big-five are not associated with any particular test, a variety of measures have been developed to measure them. This test uses the Big-Five Factor Markers from the International Personality Item Pool, developed by Goldberg (1992)."
+
+# Data Versioning
+<img width="200px" src="https://dvc.org/social-share.png">
+ 
+For keeping track of the data I will be using Data Version Control (<a href="https://dvc.org/">DVC</a>).
