@@ -1,4 +1,4 @@
-
+*.zip
 .dvc/cache/61/b1df3b2fa9a603c7c1557687e0eb03
 .dvc/cache/ad/bf6aecfb553ec98096ba2f3cca67a2
 *.db
