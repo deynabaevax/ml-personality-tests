@@ -1,0 +1,4 @@
+['remote "myremote"']
+    url = gdrive://root/dvc
+    gdrive_client_id = 1044482579298-0r9hjvlbbckacqvulgvvvo7rd4ie78uh.apps.googleusercontent.com
+    gdrive_client_secret = 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
